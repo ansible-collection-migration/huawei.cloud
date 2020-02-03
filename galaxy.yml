@@ -1,0 +1,14 @@
+namespace: huawei
+name: cloud
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies: {}
+repository: git@github.com:ansible-collection-migration/huawei.cloud.git
+documentation: https://github.com/ansible-collection-migration/huawei.cloud/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/huawei.cloud
+issues: https://github.com/ansible-collection-migration/huawei.cloud/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc

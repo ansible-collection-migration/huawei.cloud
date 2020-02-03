@@ -1,0 +1,7 @@
+plugins/module_utils/hwc_utils.py future-import-boilerplate
+plugins/module_utils/hwc_utils.py metaclass-boilerplate
+plugins/modules/hwc_ecs_instance.py validate-modules:doc-elements-mismatch
+plugins/modules/hwc_vpc_port.py validate-modules:doc-elements-mismatch
+plugins/modules/hwc_vpc_subnet.py validate-modules:doc-elements-mismatch
+plugins/doc_fragments/hwc.py future-import-boilerplate
+plugins/doc_fragments/hwc.py metaclass-boilerplate
